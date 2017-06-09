@@ -1,0 +1,246 @@
+/* 
+  Localizable.strings
+  partymode
+
+  Created by Nikita on 2/4/17.
+  Copyright © 2017 com. All rights reserved.
+*/
+currentLanuguage = "en";
+app_name = "PartyModeOn";
+settings = "Settings";
+title_activity_main = "MainActivity";
+welcome = "Welcome to\npartymode";//
+no_internet_connection = "No network internet connection";
+authentication_failed = "The authentication was not successful. Please try again!";
+title_activity_contact_list = "ContactList";
+image_content_description = "Profile picture";
+image = "Picture";
+slider_on_off = "On-Off-Switch";
+search_title = "Search title";
+search_hint = "search partyfriends";
+notification = "Notification";
+title_activity_settings = "SettingsActivity";
+action_settings = "Settings";
+section_format = "Hello World from section: %@";
+partydata = "partydata";
+partypics = "partypics";
+partybeats = "PARTYBEATS";
+impressum = "Imprint";
+feedback = "Feedback";
+partypeople = "partypeople";
+contacts = "contacts";
+blocked = "blocked";
+edit = "EDIT";
+visibility = "Visiblilty";
+edit_partypeople = "edit partypeople";
+get_notification = "receive notification";
+action = "Action";
+partify = "partify";//
+invite = "invite";//
+sms_invitation = "Hi! I use PartymodeOn. try it too, pal!!";
+partify_no_success = "Partify is currently not allowed!";
+partify_success = "has been partified!";
+check = "OK";
+add_to_crowd = "add to crowd";
+crowd = "crowd";
+clock = "clock";
+addnickname = "add partyname";
+error_crowd_create = "The crowd could not be created. Please try again later!";
+
+notification_title_partify = "has partified you!";
+notification_title_partymodeon = "went into PartyModeOn!";
+notification_body_partify = "In for Party?";
+notification_body_partymodeon = "Celebrate!";
+notification_body_create_crowd = "%@ has invited you to a partycrowd!";
+notification_body_msg = "%d unread messages";
+notification_body_one_msg = "1 unread message";
+notification_body_postponed_crowd = "%@ has moved the partycrowd!";
+notification_body_crowd_title = "Partycrowd %@ has been renamed to %@.";
+notification_body_crowd_location = "The location of the partycrowd has been changed to %@.";
+title_activity_dummy = "DummyActivity";
+title_activity_create_crowd = "create partycrowd";
+
+partytitle = "partytitle";
+friendsaddfriends = "Friends can add friends";
+invitedpartypeople = "invited partypeople";
+location = "location";
+selectdate = "Select date";
+selecttime = "Select time";
+emptytitle = "The title is empty.";
+timeinpast = "The time lies in the past.";
+accept = "ACCEPT";
+decline = "REGRET";
+acceptances = "Accept";
+noanswer = "No response";
+declinations = "REGRET";
+declinepartycrowd = "regret partycrowd";
+suredeclinepartycrowd = "Are you sure you want to regret to this partycrowd?\nTell your partypeople why you have no time!";
+back = "back";
+engaged = "I already have plans";
+stayhome = "I stay at home today";
+ownmessage = "Custom message";
+declinedalready = "You already regretted.\nYou may still accept:";
+
+today = "Today";
+tomorrow = "Tomorrow";
+yesterday = "Yesterday";
+by = "from";
+invitations = "invitations";
+nextcrowds = "next crowds";
+pastcrowds = "past crowds";
+
+editpartycrowd = "edit partycrowd";
+me = "Me";
+
+stilldecline = "REGRET TO THE PARTYCROWD";
+youdeclined = "You have regretted.";
+lastentry = "lastentry";
+
+def_title1 = "Let it rip!";
+def_title2 = "Party mood";
+def_title3 = "Party Mode On";
+def_title4 = "Ringbär-Party";
+def_title5 = "Let\'s dance!";
+
+def_location1 = "Club";
+def_location2 = "Wine cellar";
+def_location3 = "Tower";
+def_location4 = "Sports field";
+def_location5 = "At my home";
+
+showyourfriendsyourmode = "Show your friends your mode!";//
+modeswitchbackground = "Mode switch background";
+discoball = "Mirror ball";
+
+ico_partycontacts = "Partycontacts";
+modestatusbar = "Mode status bar";
+modepending = "Pending";
+modeon = "On";
+modeoff = "Off";
+
+partymode = "partymode";
+gender = "Gender";
+female = "female";
+male = "male";
+
+
+birthday = "Birthday";
+address = "Home city";
+emailaddress = "Mail address";
+
+editpartyprofile = "edit partyprofile";
+
+
+partymodeoff = "partymodeOFF";
+partymodeon = "partymodeON";
+partyname = "partyname";
+partynamedescription = "This name is seen by all people in your partycrowds, which do not have you saved as contact.";
+provideyourdata = "Enter your data in order to particiate in contests. Only you see this data.";
+
+firstname = "First name";
+lastname = "Last name";
+selectbirthday = "Select birthdate";
+addname = "ADD NAME";
+addpic = "Add photo";
+
+postpic = "Post photo";
+fromgallery = "select from gallery";
+camera = "Camera";
+error_io = "Error while reading the file.";
+error = "Errorr";
+login = "LOGIN";//
+ok = "OK";
+contacts_title = "Contacts";
+camera_title = "Camera";
+write_title = "External memory";
+access_to_contacts_required = "Access to contacts is required in order to use this app.";
+access_to_camera = "Access to camera is required in order to take a picture.";
+access_write_storage = "Access to external memory is required in order to use pictures in this app.";
+partyhistory = "partyhistory";
+to_partyhistory = "TO PARTYHISTORY";
+
+emojicon = "emojicon";
+upload = "upload";
+partymessage = "partymessage";
+imgnotdisplayed = "The image cannot be displayed.";
+loadingimg = "The image is being downloaded.";
+imgdownloadfailed = "The image could not be downloaded.";
+enteredchat = "has accepted.";
+leftchat = "has regretted.";
+
+media_badremoval = "Memory has been removed.";
+media_checking = "External memory is being checked.";
+media_ejecting = "External memory has been removed.";
+media_readonly = "External memory is not writable.";
+media_nofs = "External memory does not contain a file system.";
+media_removed = "Der externe Speicher ist nicht verfügbar.";
+media_shared = "External memory is not available.";
+media_unknown = "External memory is not available.";
+media_unmountable = "External memory is not available.";
+media_unmounted = "External memory is not available.";
+
+network_error = "A network error ocurred. Please try again!";
+unexpected_error = "An unexpected error has occurred. Please try again!";
+error_no_google_play = "Google Play Services are not installed . The App can not be used without these unfortunately.";
+error_not_authenticated = "You must re-login.";
+
+feedback_text = "We are looking forward to your constructive and anonymous feedback, what is well and what could be improved!";
+send = "Send";
+
+vibrate = "Vibrate on notifications";
+logoff = "Logoff";
+impressum_name = "partymode KG";
+impressum_street = "Waldstraße 40";
+impressum_city = "7221 Marz";
+impressum_country = "Österreich";
+impressum_phone = "Tel: 0650 56 211 20";
+impressum_mail = "Mail: hello@partymode.cc";
+
+tvmedia_title = "Movie night";
+tvmedia_body = "Take a look at todays TV program?";
+
+feedback_thank = "Thanks for your feedback!";
+feedback_body = "Would you like to rate us in PlayStore?";
+
+star = "Star";
+
+more = "More";
+
+cancel= "Cancel";
+done = "Done";
+
+alert_connection_error= "Connection problem occurred. Please contact the support center";
+
+reactivate_partycrowd = "REACTIVATE PARTYCROWD";
+invite_friends = "INVITE FRIENDS";
+
+login_signup_rules= "By signing in you indicate that you have read and agree to the Terms of Service and Privacy Policy of partymode.";
+
+feedback_msg_title = "Would you like to rate us in the App Store?";
+thanks_feedback = "Thanks for your feedback!";
+
+del_partycrowd_title = "Delete partycrowds";
+del_partycrowd_text = "All partycrowds will be deleted.";
+delete = "DELETE";
+
+imagename_empty_partymode = "empty_partymode_en";
+imagename_empty_partycrowdchat = "partycrowdchat_empty_en";
+imagename_empty_partycrowdpic = "partycrowdpic_empty_en";
+imagename_empty_partypeople = "partypeople_empty_en";
+
+emptylocation = "tbd";
+
+crowds_category_invited = "INVITED";
+crowds_category_active = "ACTIVE";
+crowds_category_past = "PAST";
+
+imprint_text = "partymode KG\nWaldstraße 40\n7221 Marz\nAustria\n\nPhone: +43 650 56 211 20\nMail: hello@partymode.cc";
+
+del_partycrowd_alert = "Do you really want to delete this partycrowd?";
+alert_yes = "Yes";
+alert_No = "No";
+
+alert_disabled_contact_permission = "Without access to phonebook the Partymode can't be used. Please log in again.";
+menu_faq = "FAQ & Support";
+
+contact_settings_alert = "To re-enable, please go to Settings and turn on Contact permission for this app. We promise to keep your contacts private.";
